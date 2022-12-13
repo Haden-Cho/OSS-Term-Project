@@ -24,7 +24,7 @@ opencv, dilb,face-recognition을 활용하여 영상,사진,웹캠에서 얼굴�
 - Python 3+ ==3.9.15
 - dlib ==19.24.0
 - OpenCV ==4.6.0
--face_reconition == 1.2.3
+ -face_reconition == 1.2.3
 - numpy == 1.23.4
 - matplotlib == 3.6.2(for visualization)
 
